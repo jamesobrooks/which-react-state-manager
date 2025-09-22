@@ -480,6 +480,11 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
+constate@^3.3.3:
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/constate/-/constate-3.3.3.tgz#668a4e849986ad68fc4e0e67451e388a1c479e06"
+  integrity sha512-J1P1K/GSB2Bn7uLU9AC9ddJb4PooiMHvektj8PK31Tj6nDWYjnmqVkOajzFp2oT7dpCjE2dL1VXVt/XrNwNwQA==
+
 convert-source-map@^1.7.0:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.8.0.tgz#f3373c32d21b4d780dd8004514684fb791ca4369"
