@@ -1189,6 +1189,11 @@ tailwindcss@^3.0.8:
     resolve "^1.20.0"
     tmp "^0.2.1"
 
+teaful@^0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/teaful/-/teaful-0.11.1.tgz#9e176a8358b261d2a8a582bae24a605a718171c7"
+  integrity sha512-U1O0u+GsHI0b/6vcEDjSPYwAWX57WAOXG31KCzAMrV4rWqcy+j71F4jsHb5q9FYqdkQjH8Pi1fWJ1oO/dLAKdw==
+
 tmp@^0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/tmp/-/tmp-0.2.1.tgz#8457fc3037dcf4719c251367a1af6500ee1ccf14"
